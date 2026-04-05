@@ -1,0 +1,29 @@
+/* Glassmorphism Card Style */
+.glass-card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    padding: 25px;
+    margin: 15px 0;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+/* Role Badges */
+.role-badge {
+    background: rgba(192, 132, 252, 0.15);
+    border-left: 5px solid #c084fc;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #f3e8ff;
+}
+
+/* Custom Button Hover */
+.stButton>button:hover {
+    border-color: #38bdf8 !important;
+    color: #38bdf8 !important;
+    transform: scale(1.02);
+    transition: 0.3s;
+}
