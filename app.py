@@ -88,4 +88,4 @@ with c2:
         csv = df.to_csv(index=False).encode('utf-8')
         st.download_button(label="📥 Download CSV", data=csv, file_name="report.csv", mime="text/csv")
     else:
-        st.info("Upload resumes and click 'Start Analysis'.")
+        st.info("Upload resumes and click 'Start Analysis'.") 
