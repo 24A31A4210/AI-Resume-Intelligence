@@ -22,8 +22,3 @@ Traditional resume screening is slow. **AI Resume Intelligence** uses Natural La
 - **Backend:** Python
 - **ML/NLP:** Scikit-learn (TF-IDF, Cosine Similarity)
 - **Data:** Pandas, pdfplumber, docx2txt
-
-## 📂 How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
