@@ -3,9 +3,12 @@
 An automated resume screening and candidate-role mapping system built with Python and Machine Learning.
 
 ## 👥 The Team
-- **Team Lead:** Siri (ML Logic & System Integration)
-- **Member 2:** UI/UX & Frontend Development
-- **Member 3:** Data Engineering & Research
+- Jampa Siri Chandana Priya (@24A31A4210) — Project Lead & AI System Architect
+  - (Overall system design, AI model selection, and End-to-End Integration)
+- Piradi Sai Rupa Sri (@24A31A4227) — UI/UX Design & Frontend Developer
+  - (Building the interactive Streamlit dashboard, CSS animations, and futuristic dark-tech layout)
+- Chitturi Dhanu Sree (@24A31A4207) — NLP Specialist & Data Engineering
+  - (Text extraction from resumes, Data cleaning, and Keyword mapping logic)
 
 ## 🚀 Overview
 Traditional resume screening is slow. **AI Resume Intelligence** uses Natural Language Processing (NLP) to automate this process. It extracts text from PDF/DOCX resumes, classifies them into job roles using **TF-IDF**, and validates candidate skills.
@@ -22,12 +25,3 @@ Traditional resume screening is slow. **AI Resume Intelligence** uses Natural La
 - **Backend:** Python
 - **ML/NLP:** Scikit-learn (TF-IDF, Cosine Similarity)
 - **Data:** Pandas, pdfplumber, docx2txt
-
-
-👥 Contributors :
--Jampa Siri Chandana Priya (@24A31A4210) — Project Lead & AI System Architect
-  -(Overall system design, AI model selection, and End-to-End Integration)
--Piradi Sai Rupa Sri (@24A31A4227) — UI/UX Design & Frontend Developer
-  -(Building the interactive Streamlit dashboard, CSS animations, and futuristic dark-tech layout)
--Chitturi Dhanu Sree (@24A31A4207) — NLP Specialist & Data Engineering 
-  -(Text extraction from resumes, Data cleaning, and Keyword mapping logic)
