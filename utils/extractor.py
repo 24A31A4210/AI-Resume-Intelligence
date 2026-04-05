@@ -14,3 +14,4 @@ def extract_text_from_file(file):
         return text.strip()
     except Exception as e:
         return f"Error: {str(e)}"
+        
